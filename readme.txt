@@ -1,4 +1,4 @@
-Write a Graph.java class that performs the following:
+Graph.java does the following:
 
 Reads an input file named "input.txt" that has the following format:
 
